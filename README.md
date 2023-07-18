@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @F-a-w-n
-- 👀 I’m interested in Web and Robotics programming
-- 🌱 I’m currently learning 12th grade computer science at Vincent Massey Secondary School
-- 💞️ I’m currently working on FRC team 4903's Rapid React robot as senior programmer
+- 👀 I’m interested in Web and Robotics programming and Machine Learning and everything!
+- 🌱 I’m currently going into the University of Windsor for Computer Science
+- 💞️ I’m currently working on personal projects
 
 <!---
 F-a-w-n/F-a-w-n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
